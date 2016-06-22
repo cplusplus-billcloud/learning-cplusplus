@@ -1,4 +1,10 @@
 #include <iostream>
+
+/* 
+ * testing git
+ *
+ */
+
 int main()
 {
     int sum = 0, value = 0;
